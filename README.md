@@ -124,7 +124,7 @@ int main() //начало головной программы
     for (int i = 0; i < N; ++i) delete[] C[i];
     delete[] C;
 
-    return 0;
+    return 0;     //означает нормальное завершение работы головной программы
 }
 
 ```
@@ -132,3 +132,5 @@ int main() //начало головной программы
 #### Результат работы программы:
 
 ![image](https://user-images.githubusercontent.com/100388979/172992904-f240225c-abbe-4968-bcb7-fdb4ed6ff379.png)
+
+### 4. 
